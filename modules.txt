@@ -1,0 +1,22 @@
+# modules.txt (your existing file)
+Flask
+Werkzeug
+PyPDF2
+python-docx
+markdown2
+pdfkit
+pypandoc
+Pillow
+pdfminer.six
+pytesseract
+pdf2image
+beautifulsoup4
+lxml
+flask-sqlalchemy
+flask-login
+flask-bcrypt
+requests
+docx2pdf
+html2text
+pdf2docx
+markdown
